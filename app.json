@@ -1,0 +1,61 @@
+{
+    "name": "Powerful-Bot-Status-Bot",
+    "logo": "https://telegra.ph//file/98aceff33845a579b1f2e.jpg",
+    "description": "Advance \nPowerful Bot Status Bot From @szteambots",
+    "keywords": [
+        "bot",
+        "telegram",
+        "status",
+        "botstatus"
+    ],
+    "repository": "https://github.com/szbots/Powerful-Bot-Status-Bot",
+    "website": "https://szbots.tech",
+    "success_url": "https://github.com/InukaRanmira",
+    "stack": "container",
+     "env": {
+        "SESSION_STRING": {
+            "description": "Owner pyrogram session string",
+            "required": true
+        },
+        "API_ID": {
+            "description": "Get you api id from my.telegram.org.",
+            "required": true
+        },
+        "API_HASH": {
+            "description": "Get you api hash from my.telegram.org.",
+            "required": true
+        },
+        "BOTS": {
+            "description": "Bots usernames with a space ( Like :- BotFather Like Donate)",
+            "required": true
+        },
+        "BOT_OWNER":{
+            "description": "Owner ID",
+            "required": true
+        },
+        "UPDATE_CHANNEL": {
+            "description": "Channel of editing message",
+            "required": true
+        },
+        "MESSAGE_ID": {
+            "description": "ID of editing message",
+            "required": true
+        },
+        "TIME_LIMIT": {
+            "description": "Time limit for checking bots one by one",
+            "required": true
+        },
+        "SLEEP_TIME": {
+            "description": "Time limit for sleeping after checking bots",
+            "required": true
+        },
+        "HEADING": {
+            "description": "Heading of the message",
+            "required": false
+        },
+        "ATTACH_LINK": {
+            "description": "Attach link for message",
+            "required": true    
+        }
+    }
+}
