@@ -18,34 +18,30 @@ Advance bot status userbot
 - `ATTACH_LINK` Attach link for message
 
 <p align="center">
-    <a href="https://app.codacy.com/szbots/Powerful-Bot-Status-Bot/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="Codacy" /></a>
-    <a href="https://github.com/szbots/Powerful-Bot-Status-Bot"> <img src="https://img.shields.io/github/repo-size/szbots/Powerful-Bot-Status-Bot?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/szbots/Powerful-Bot-Status-Bot/commits/"> <img src="https://img.shields.io/github/last-commit/szbots/Powerful-Bot-Status-Bot?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/szbots/Powerful-Bot-Status-Bot/issues"> <img src="https://img.shields.io/github/issues/szbots/Powerful-Bot-Status-Bot?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/szbots/Powerful-Bot-Status-Bot/network/members"> <img src="https://img.shields.io/github/forks/szbots/Powerful-Bot-Status-Bot?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
+    <a href="https://app.codacy.com/ToxicCybers/Bot-Status/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="Codacy" /></a>
+    <a href="https://github.com/ToxicCybers/Bot-Status"> <img src="https://img.shields.io/github/repo-size/szbots/Powerful-Bot-Status-Bot?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/ToxicCybers/Bot-Status/commits/"> <img src="https://img.shields.io/github/last-commit/szbots/Powerful-Bot-Status-Bot?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/ToxicCybers/Bot-Status/issues"> <img src="https://img.shields.io/github/issues/szbots/Powerful-Bot-Status-Bot?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/ToxicCybers/Bot-Status/network/members"> <img src="https://img.shields.io/github/forks/szbots/Powerful-Bot-Status-Bot?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
     <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
 </p>
 
 ### Support Group
-<a href="https://t.me/slbotzone"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/RexomaSupport"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
 
 ## Deploy to Heroku
 Easy to Deploy to Heroku.
 
 Press Below Button to Deploy!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/szbots/Powerful-Bot-Status-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ToxicCybers/Bot-Status)
 
-## Session String
-[![Run on Repl.it](https://replit.com/badge/github/szbots/Powerful-Bot-Status-Bot)](https://replit.com/@InukaRanmira/PowerFul-Bot-Status-Sesson)
-
-<h3> This String Session created by SZ TEAM BOTS. 
                                                    It's Fast And secure </h3>
 
 ### Follow on:
 <p align="left">
-<a href="https://github.com/InukaRanmira"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
+<a href="https://github.com/ToxicCybers"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
 </p>
 
 # Contributors
-<a href="RexomaSupport">![GitHub Contributors Image](https://contrib.rocks/image?repo=szbots/Powerful-Bot-Status-Bot)   
+<a href="RexomaSupport">![GitHub Contributors Image](https://contrib.rocks/image?repo=ToxicCybers/Bot-Status)   
