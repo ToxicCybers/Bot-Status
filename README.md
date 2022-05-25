@@ -23,7 +23,7 @@ Advance bot status userbot
     <a href="https://github.com/ToxicCybers/Bot-Status/commits/"> <img src="https://img.shields.io/github/last-commit/szbots/Powerful-Bot-Status-Bot?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
     <a href="https://github.com/ToxicCybers/Bot-Status/issues"> <img src="https://img.shields.io/github/issues/szbots/Powerful-Bot-Status-Bot?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
     <a href="https://github.com/ToxicCybers/Bot-Status/network/members"> <img src="https://img.shields.io/github/forks/szbots/Powerful-Bot-Status-Bot?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
-    <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://pypi.org/project/Pyrogram/"> <img src="https://img.shields.io/pypi/v/pyrogram?color=yellow&label=pyrogram&logo=python&logoColor=green&style=for-the-badge" /></a>
 </p>
 
 ### Support Group
