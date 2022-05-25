@@ -44,4 +44,4 @@ Press Below Button to Deploy!
 </p>
 
 # Contributors
-<a href="t.me/RexomaSupport">![GitHub Contributors Image](https://contrib.rocks/image?repo=ToxicCybers/Bot-Status)   
+<a href="https://t.me/RexomaSupport">![GitHub Contributors Image](https://contrib.rocks/image?repo=ToxicCybers/Bot-Status)   
