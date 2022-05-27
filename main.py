@@ -1,4 +1,4 @@
-
+import asyncio
 import os
 import time
 import pytz
@@ -25,7 +25,7 @@ User = Client(
 )
 
 
-def main():
+async def main():
     with User:
         while True:
             print("[INFO] starting to check uptime..")
@@ -47,7 +47,7 @@ def main():
                     print(f"[WARNING] @{bot} is down")
                     status_text += f"\n🤖 **Bot :-** [{bot}](https://t.me/{bot})" \
                                    f"\n**⚜ Status :-** `Offline` ❎\n"
-                    User.send_message(
+                    lol = await User.send_message(
                         chat_id=BOT_OWNER,
                         text=f"@{bot} status: `Down`"
                     )
@@ -61,7 +61,7 @@ def main():
             status_text += f"\n**Last checked:**\n{str(utc_now)} UTC ⏰"
             status_text += f"\n`Updated on every {limit} hours`"
             try:
-                User.send_message(
+                lel = await User.send_message(
                     chat_id=UPDATE_CHANNEL,                    
                     text=status_text,
                     disable_web_page_preview=hide_preview
@@ -74,8 +74,8 @@ def main():
                     chat_id=BOT_OWNER,
                     text=error_text
                 )
-            time.sleep(TIME_LIMIT * 60)
-
+            time.sleep(TIME_LIMIT * 60)            
+            await lel.delete()
 
 if SESSION_STRING and API_HASH and API_ID and BOTS and BOT_OWNER and UPDATE_CHANNEL and MESSAGE_ID:
     print("Bot working fine")
