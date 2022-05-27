@@ -76,6 +76,7 @@ async def main():
                 )
             time.sleep(TIME_LIMIT * 60)            
             await lel.delete()
+            await lol.delete()
 
 if SESSION_STRING and API_HASH and API_ID and BOTS and BOT_OWNER and UPDATE_CHANNEL and MESSAGE_ID:
     print("Bot working fine")
